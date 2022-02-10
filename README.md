@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-pirmann&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Johannes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johannes_pirmann)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **johannes-pirmann/johannes-pirmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
