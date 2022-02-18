@@ -7,8 +7,20 @@
 
 
 ![Johannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=johannes-pirmann&hide=stars&count_private=true&show_icons=true)
+## I use:
+### Frontend:
+HTML/CSS, JavaScript, React
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-pirmann&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+### Backend:
+Python, Django, NodeJs
+
+### Technologies & Providers:
+- **Server:** Ubuntu
+- **Web server:** Nginx, Apache
+- **Database:** MySQL
+- **CMS:** WordPress, Ghost
+- **Providers:** AWS, DigitalOcean, Linode, Hetzner, GitHub
+- **Project management software:** Asana, Jira, Monday.com, Excel
 
 <!--
 **johannes-pirmann/johannes-pirmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
