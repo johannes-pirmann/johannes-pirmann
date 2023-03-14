@@ -1,24 +1,25 @@
 ### Hi there 👋
 - 👨‍💻 My name is Johannes Pirmann
 - 🔗 My home on the net is [johannes-pirmann.com](https://johannes-pirmann.com)
-- 🔭 I’m currently working on [pirmannmedia.com](https://pirmannmedia.com)
+- 🔭 I’m currently working at [smarterSec](https://smartersec.com).
 - 📫 You can reach me by mail at johannes.pirmann@pirmannmedia.com
 - 🙊 I speak German, English, Polish, and also a bit of Spanish
 
-
-![Johannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=johannes-pirmann&hide=stars&count_private=true&show_icons=true)
 ## I use:
 ### Frontend:
-HTML/CSS, JavaScript, React
+- HTML/CSS
+- JavaScript
+- React
 
 ### Backend:
-Python, Django, NodeJs
+- Python, Django
 
 ### Technologies & Providers:
 - **Server:** Ubuntu
+- **Containers:** Docker
 - **Web server:** Nginx, Apache
 - **Database:** MySQL
-- **CMS:** WordPress, Ghost
+- **CMS:** Hugo, WordPress, Ghost
 - **Providers:** AWS, DigitalOcean, Linode, Hetzner, GitHub
 - **Project management software:** Asana, Jira, Monday.com, Excel
 
